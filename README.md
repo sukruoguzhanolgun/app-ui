@@ -25,7 +25,7 @@ npm run lint
 docker build -t app-ui:local-1 . 
 ```
 
-### To run docker file
+### To run application on docker
 ```
 docker-compose up -d 
 ```
