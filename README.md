@@ -20,5 +20,13 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### To run docker file
+```
+docker build -t app-ui:local-1 . 
+```
+
+### To run docker file
+```
+docker-compose up -d 
+```
+
